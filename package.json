@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@heroicons/react": "^2.2.0",
-    "lucide-react": "^0.564.0"
+    "@prisma/client": "^7.4.0",
+    "lucide-react": "^0.564.0",
+    "prisma": "^7.4.0"
   }
 }
